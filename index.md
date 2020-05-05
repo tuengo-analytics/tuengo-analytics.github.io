@@ -7,7 +7,8 @@ I am a physicist with interest in machine learning and data analytics. My expert
  
 ## Current Interests and Projects:
 (under construction...)
-1. The first project shown here is an interactive COVID-19 map showing daily fatalities by country/region.
+
+1.The first project shown here is an interactive COVID-19 map showing daily fatalities by country/region.
 
 [Show map](https://tuengo-analytics.github.io/corona)
 [![](dailySample.png)](https://tuengo-analytics.github.io/corona)
@@ -15,5 +16,5 @@ I am a physicist with interest in machine learning and data analytics. My expert
 
 
 
-2. The second project is to search a molecular absorption spectra in the near IR range.  The aim is to develop an optical analyzer to detect gas species such as H2S, CO2, and H2O.
+2.The second project is to search a molecular absorption spectra in the near IR range.  The aim is to develop an optical analyzer to detect gas species such as H2S, CO2, and H2O.
 [![](spectra.png)](https://hitran.org/)
