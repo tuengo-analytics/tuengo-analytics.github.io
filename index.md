@@ -9,7 +9,7 @@ I am a physicist with interest in machine learning and data analytics. My expert
 1. The first project shown here is an interactive COVID-19 map showing daily fatalities by country/region.
 
 [Show map](https://tuengo-analytics.github.io/corona)
-[!(dailySample.png)(https://tuengo-analytics.github.io/corona)]
+[!(dailySample.png)](https://tuengo-analytics.github.io/corona)
 
 
 2. The second project is to search a suitable wavelength window near infrared of molecular absorption spectra.  The aim is to develop an optical analyzer to detect gas species such as H2S, CO2, and H2O.
