@@ -1,26 +1,3 @@
-<html>
-<style>
-	div {
-	  border: 1px solid black;
-	  background-color: white;
-	  padding-top: 10px;
-	  padding-right: 10px;
-	  padding-bottom: 10px;
-	  padding-left: 10px;
-	}
-	.center {
-	  text-align: center;
-	  border: 3px solid black;
-	}
-
-	table {
-	    border-collapse: collapse;
-	}
-
-	table, th, td {
-	   border: 5px solid black;
-	}
-	</style>
 ---
 layout: page
 excerpt: "About Me..."
