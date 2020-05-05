@@ -21,7 +21,6 @@ The first project shown here is an interactive COVID-19 map showing daily fatali
 
 ### 2. Data Mining
 
-My second project is to develop a tool to automate the search of molecular absorption spectra in [HITRAN database] 
-(https://www.HITRAN.org).  The aim is to develop an optical analyzer to detect gas species such as H2S, CO2, and H2O simultaneously.
+My second project is to develop a tool to automate the search of molecular absorption spectra in [HITRAN database](https://www.HITRAN.org).  The aim is to develop an optical analyzer to detect gas species such as H2S, CO2, and H2O simultaneously.
 
 [![](images/spectra.png)](https://tuengo-analytics.github.io/Gas-Analyzer/)
