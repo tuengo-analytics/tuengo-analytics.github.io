@@ -1,7 +1,9 @@
 ---
 layout: page
 ---
-I am a physicist with interest in machine learning and data analytics. My expertise is in data modeling to predict hardware lifetime and reliability, and test algorithms. I have experience in conducting statistical analysis in product yield and design optimization.  In recent years, I continue to extend my knowledge in AI/Machine Learning through projects and teaching.
+## About me:
+
+I am a physicist with interest in machine learning and data analytics. My expertise is in data modeling to predict hardware lifetime/reliability, and test algorithms. I have experience in conducting statistical analysis in product yield and design optimization.  In recent years, I continue to extend my knowledge in AI/Machine Learning through projects and teaching.
  
 ## Current Interests and Projects:
 (under construction...)
