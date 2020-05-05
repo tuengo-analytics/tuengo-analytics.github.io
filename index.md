@@ -1,4 +1,5 @@
-	<style>
+<html>
+<style>
 	div {
 	  border: 1px solid black;
 	  background-color: white;
