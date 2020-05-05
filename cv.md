@@ -1,70 +1,18 @@
 ---
 layout: resume
 ---
-## Currently
+## Currently                                              2018-present
 
-Current Position Description
-
-## Education
-
-`1990 - 1994`
-__University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
-
-## Awards
-
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
+Machine Learning Instructor at California Science & Technology University
 
 ## Occupation
 
-`Current`
-__Current Job Title__, Current Employer 
+__Machine Learning Instructor__, California Science and Technology University
 
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-
+* DNN, CNN, Business Analytics, Big Data, and NLP
+* Participating in Kaggle competitions (robot drive, earthquake prediction)
+* Leading teams to work on various AI projects
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: May 2020 -->
