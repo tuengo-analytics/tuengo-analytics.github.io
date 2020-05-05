@@ -15,5 +15,5 @@ I am a physicist with interest in machine learning and data analytics. My expert
 
 
 
-2. The second project is to search a suitable wavelength window near infrared of molecular absorption spectra.  The aim is to develop an optical analyzer to detect gas species such as H2S, CO2, and H2O.
+2. The second project is to search a molecular absorption spectra in the near IR range.  The aim is to develop an optical analyzer to detect gas species such as H2S, CO2, and H2O.
 [![](spectra.png)](https://hitran.org/)
