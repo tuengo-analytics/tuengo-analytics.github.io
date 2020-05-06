@@ -1,13 +1,13 @@
 # Site wide configuration
 
-title: DataAnalytics
+title: Data Analytics
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Tue Ngo, Ph.D.
-  avatar: myphoto.jpg
+  avatar: images/myphoto.jpg
   bio: "applied physics | machine learning | data analytics."
   email: tuengo@sbcglobal.net
   # Do not include the @ symbol in your Twitter username
