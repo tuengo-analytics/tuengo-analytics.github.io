@@ -8,7 +8,6 @@ layout: page
 
 The first project shown here is an interactive COVID-19 map showing daily fatalities by country/region.
 
-[Show map](https://tuengo-analytics.github.io/corona)
 [![](images/dailySample.png)](https://tuengo-analytics.github.io/corona)
 
 
