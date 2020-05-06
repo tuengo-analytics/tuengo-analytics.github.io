@@ -6,7 +6,8 @@
 	background-color: #efefef;
 	font-family: $code-font;
 	@include font(12);
-	color: #333332;
+	color: #B4B49D
+	/*color: #333332;*/
 	margin-bottom: 1.5em;
 	@include rounded(4px);
 	pre {
