@@ -1,7 +1,7 @@
 ---
 layout: page
+title: Current Interests and Projects
 ---
-# Current Interests and Projects:
 (under construction...)
 
 ### 1. Interactive Map and Embedded Data
