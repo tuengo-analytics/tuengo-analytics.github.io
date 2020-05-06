@@ -1,9 +1,10 @@
 ---
 layout: resume
+title: About me
 ---
-# About me:
 I am a physicist with interest in machine learning and data analytics. My expertise is in data modeling to predict hardware lifetime/reliability, and test algorithms. I have experience in conducting statistical analysis in product yield and design optimization. In recent years, I continue to extend my knowledge in AI/Machine Learning through projects and teaching.
 
+(this page is under construction...)
 ## Currently                                              2018-present
 
 Machine Learning Instructor at California Science & Technology University
