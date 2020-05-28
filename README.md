@@ -1,8 +1,4 @@
 ## Introduction
-This template utilizes Jekyll, an open source static website generator, as well as a theme based largely off of the Minimal Mistakes theme by Michael Rose. The purpose of this template is to provide you with a simple, well designed website that is optimized for hosting on Github pages. We aim to reduce the technological know-how and time that is usually required for maintaining a personal or professional website.
-
-#### Why Should I Use This?
-By using this template you will have a website that is well designed, easy to maintain, free to host and easy to update. While there are many options out there for personal and professional websites, most are dependant on the platform on which they were built, and cannot be easily migrated. This template, while built for Github Pages integration, provides flexibility should you choose to host it elsewhere.
-
-## [Getting Started Guide](https://ncsu-libraries.github.io/jekyll-academic-docs/)
-Complete documentation for getting started as well as advanced features of Jekyll Academic can be fount at [https://ncsu-libraries.github.io/jekyll-academic-docs/](https://ncsu-libraries.github.io/jekyll-academic-docs/).
+I'm developing this page as my journal delving into the field of machine learning.  I have started learning ML 2 years ago, and continue to find it is quite intellectually exciting.
+I'm an applied physicist, and have work experience in hard disk drive industry.  What I love to do is analyzing analog signals from sensors such as magnetic, acoustic, temperature, humidity, etc.  I'm looking for a new way to use machine learning to unravel the wealth of data coming from the sensors that are trying to tell us about our environment.
+This page is under construction.  Please drop a few lines to say hello.  Thank you for visiting my page.
